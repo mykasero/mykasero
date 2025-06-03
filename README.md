@@ -16,7 +16,7 @@ I'm always looking to take on new challenges, expand my skill set, and collabora
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
