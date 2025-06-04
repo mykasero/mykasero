@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi there! I'm a 25-year-old Automation and Robotics Engineer from Poland with a long-standing passion for programming and technology.
+<p align="left">Hi there! My name is Jakub, I'm a 25-year-old Automation and Robotics Engineer from Poland with a long-standing passion for programming and technology.
 
 From an early age, I've been drawn to computers and the endless possibilities they offer. Over the years, that curiosity has grown into a commitment to continuously learn and explore different areas of IT.
 
