@@ -6,11 +6,13 @@
 
 ###
 
-<p align="left">Hi there! My name is Jakub, I'm a 25-year-old Automation and Robotics Engineer from Poland with a long-standing passion for programming and technology.
+<p align="left">Hi there! My name is Jakub, I'm a 26-year-old Automation and Robotics Engineer from Poland with a long-standing passion for programming and technology.
 
 From an early age, I've been drawn to computers and the endless possibilities they offer. Over the years, that curiosity has grown into a commitment to continuously learn and explore different areas of IT.
 
 For the past 1.5 years, my focus has been on web development, particularly using Python and Django. I've built several web applications—some of which are actively used every day by real users—which has given me hands-on experience with creating practical, user-focused solutions.
+
+Currently working as a Junior Software Developer at Evertz (Mainly frontend in vuejs3).
 
 I'm always looking to take on new challenges, expand my skill set, and collaborate on meaningful projects.
 
