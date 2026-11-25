@@ -12,7 +12,7 @@ From an early age, I've been drawn to computers and the endless possibilities th
 
 For the past 1.5 years, my focus has been on web development, particularly using Python and Django. I've built several web applications—some of which are actively used every day by real users—which has given me hands-on experience with creating practical, user-focused solutions.
 
-Currently working as a Junior Software Developer at Evertz (Mainly frontend in vuejs3).
+Currently working as a Junior Software Developer (Mainly frontend in vuejs3), counting since November 2025.
 
 I'm always looking to take on new challenges, expand my skill set, and collaborate on meaningful projects.
 
